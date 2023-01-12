@@ -3,6 +3,7 @@
   font-size: 1.5rem;
   display: flex;
   flex-wrap: wrap;
+  margin: 15px;
 }
 .col{
   max-width: 400px;
@@ -13,4 +14,5 @@
 .movieImage{
   border-radius: 15px;
   box-shadow: 10px 5px 5px rgb(78, 10, 10);
+
 }
