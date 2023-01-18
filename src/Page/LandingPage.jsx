@@ -1,3 +1,4 @@
+import { AppHeader } from "../Components/headers/AppHeader";
 import { MoviesGrid } from "../Components/MoviesGrid";
 import { Search } from "../Components/Search";
 import { useQuery } from "../hooks/useQuery";
