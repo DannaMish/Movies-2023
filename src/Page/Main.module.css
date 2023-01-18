@@ -4,18 +4,18 @@
   color:rgb(59, 1, 1);
 }
 .ul,ol,dl,p {
-    font-size: 1.5rem;
+    font-size: 20px;
   }
 .li, p {
-    line-height: 1rem;
+    line-height: 1.5rem;
   }
   .butto{
-    background-color: blueviolet;
+    background-color: rgb(174, 41, 117);
     font-size: 20px;
     border-radius: 10px;
     top: 0;
     cursor: pointer;
     height: 100%;
     border: none;
-    color: rgb(95, 9, 69);
+    color: rgb(121, 21, 91);
   }
